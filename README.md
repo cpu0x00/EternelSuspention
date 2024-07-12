@@ -1,3 +1,6 @@
+
+*idk when but windows silently fixed this :\\*
+
 a simple poc showcasing the ability of an admin to suspend EDR's protected processes , making it effectively useless
 if ran morethan 5 minutes the system freezes to death
 
